@@ -1,0 +1,6 @@
+2023-12-25 23:37:49,046-INFO-utils.NumberGenerator::NumberGenerator|13:: In generate number, info
+2023-12-25 23:37:49,047-DEBUG-utils.NumberGenerator::NumberGenerator|14:: In generate number, debug
+2023-12-25 23:37:49,047-ERROR-utils.NumberGenerator::NumberGenerator|15:: Hey error occured..
+2023-12-25 23:40:26,123-INFO-utils.NumberGenerator::NumberGenerator|13:: In generate number, info
+2023-12-25 23:40:26,123-DEBUG-utils.NumberGenerator::NumberGenerator|14:: In generate number, debug
+2023-12-25 23:40:26,123-ERROR-utils.NumberGenerator::NumberGenerator|15:: Hey error occured..
